@@ -1,2 +1,2 @@
 # OOP244
-## Introduction to Object Oriented Programming
+Introduction to Object Oriented Programming
